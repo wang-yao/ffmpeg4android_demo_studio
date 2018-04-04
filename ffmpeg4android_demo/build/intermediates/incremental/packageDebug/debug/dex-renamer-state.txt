@@ -1,0 +1,4 @@
+#Wed Dec 06 14:29:12 CST 2017
+base.0=D\:\\AndroidStudioProjects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

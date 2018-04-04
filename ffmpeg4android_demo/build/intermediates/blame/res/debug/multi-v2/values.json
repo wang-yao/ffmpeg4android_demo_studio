@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudioProjects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,16,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,1171,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,199,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,1370,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,301,443,517,573,635,823,958,1207,1290",
+                        "endLines": "2,3,4,5,6,7,9,10,13,14,15",
+                        "endColumns": "41,203,141,73,55,61,101,134,88,82,127",
+                        "endOffsets": "92,296,438,512,568,630,818,953,1202,1285,1413"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioProjects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,21,26",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1418,1618,1818",
+                        "endLines": "20,25,29",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1613,1813,1961"
+                    }
+                }
+            ]
+        }
+    ]
+}
